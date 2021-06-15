@@ -1,0 +1,132 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.IBk -K 1 -W 0 -X -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     covid_19_india_countrywise-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.Remove-R2-3
+Instances:    474
+Attributes:   3
+              Date
+              Daily Deaths
+              Daily
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.03 seconds
+
+=== Summary ===
+
+Correlation coefficient                  0.9982
+Mean absolute error                   1483.1328
+Root mean squared error               5087.7474
+Relative absolute error                  2.942  %
+Root relative squared error              6.042  %
+Total Number of Instances              474  
+
+
+
+
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.IBk -K 2 -W 0 -X -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     covid_19_india_countrywise-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.Remove-R2-3
+Instances:    474
+Attributes:   3
+              Date
+              Daily Deaths
+              Daily
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.03 seconds
+
+=== Summary ===
+
+Correlation coefficient                  0.9982
+Mean absolute error                   1483.1328
+Root mean squared error               5087.7474
+Relative absolute error                  2.942  %
+Root relative squared error              6.042  %
+Total Number of Instances              474     
+
+
+
+
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.IBk -K 3 -W 0 -X -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     covid_19_india_countrywise-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.Remove-R2-3
+Instances:    474
+Attributes:   3
+              Date
+              Daily Deaths
+              Daily
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+IB1 instance-based classifier
+using 3 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.03 seconds
+
+=== Summary ===
+
+Correlation coefficient                  0.9699
+Mean absolute error                  10086.6883
+Root mean squared error              20526.3203
+Relative absolute error                 20.0084 %
+Root relative squared error             24.3761 %
+Total Number of Instances              474    
+
+
+
+
+
+
+
+
+=== Classifier model for fold 10 ===
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9112
+Mean absolute error                  15700.5414
+Root mean squared error              35057.1685
+Relative absolute error                 31.061  %
+Root relative squared error             41.5447 %
+Total Number of Instances              474 
+
+
+
+
+
+
+
+
+

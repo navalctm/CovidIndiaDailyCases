@@ -3,10 +3,11 @@
 Continuing to the previous observations, we know take following attributes into account and train model for daily cases instead of active cases.
 
 check the discussion: https://github.com/navalctm/CovidIndiaActiveCases
-
+```
 Date -> Date reformatted to Weka
 Daily Deaths -> Daily number of deaths
 Daily -> Daily number of cases 
+```
 
 As evident from the previous discussions, we will go for KNN in weka which is Instance Based Classifier (IBk) under name Lazy.
 

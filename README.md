@@ -96,6 +96,7 @@ Total Number of Instances              474
 <img src="https://github.com/navalctm/CovidIndiaDailyCases/blob/main/Images/test.png" alt="alt text" width="900" height="400">
 
 _It is evident from this data that predicting daily is achieved with model trained on this particular kind of data_
-_Also as a matter of fact the predicted daily remains higher, it is because of the number of deaths, this also indicates that the reported number of covid cases are actually less but in actual they could be more _
+
+Also as a matter of fact the predicted daily remains higher, it is because of the number of deaths, this also indicates that the reported number of covid cases are actually less but in actual they could be more.
 
 

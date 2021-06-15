@@ -1,8 +1,8 @@
 # Covid India Daily Cases
 
-Continuing to the previous observations, we know take following attributes into account and train model for daily cases instead of active cases.
+Continuing to the previous observations, we take following attributes into account and train model for daily cases instead of active cases.
 
-check the discussion: https://github.com/navalctm/CovidIndiaActiveCases
+please check the discussion: https://github.com/navalctm/CovidIndiaActiveCases
 ```
 Date -> Date reformatted to Weka
 Daily Deaths -> Daily number of deaths
